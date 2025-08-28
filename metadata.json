@@ -1,0 +1,5 @@
+{
+  "name": "Team Directory",
+  "description": "An intelligent team directory application that allows users to catalog and update team member contacts. It leverages AI to generate professional role descriptions and unique profile pictures, ensuring a complete and visually appealing directory.",
+  "requestFramePermissions": []
+}
